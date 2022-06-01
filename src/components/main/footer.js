@@ -13,7 +13,7 @@ const Footer = () => {
                         <img src={logo} alt=""/>
                         <div className="footer-general__contact" style={{paddingTop: media(10, 40)}}>
                             <span><i className="fa-solid fa-phone"/></span>
-                            <a href="tel: 0779-16-19-75"> 0779-16-19-75</a>
+                            <a href="tel:0779-16-19-75"> 0779-16-19-75</a>
                         </div>
                     </div>
                     <div className="footer-general__center">
@@ -27,6 +27,8 @@ const Footer = () => {
                     <div className="footer-general__seti">
                         <h1>Соц тармактар</h1>
                          <span> <a href="https://www.instagram.com/bokonbaevmektebi/"><i className="fab fa-instagram"/></a></span>
+                         <span> <a href="https://wa.me/0779-16-19-75"><i className="fab fa-whatsapp"/></a></span>
+                         <span> <a href="https://t.me/0779-16-19-75"><i className="fab fa-telegram"/></a></span>
                         {/*<span><i className="fab fa-whatsapp"/></span>*/}
                     </div>
                 </div>

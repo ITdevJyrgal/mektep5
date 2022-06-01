@@ -15,8 +15,8 @@ const Services = () => {
                         <a href="https://www.instagram.com/bokonbaevmektebi/"><span style={{fontSize: media(15, 20)}}><i
                             className="fa-brands fa-instagram"/> bokonbaevmektebi</span></a>
                         {/*<a href="#"><span style={{fontSize: media(15,20)}}><i className="fa-brands fa-facebook-f"/> balancha_mektebi</span></a>*/}
-                        <a href="tel:0779-16-19-75"><span style={{fontSize: media(15, 20)}}><i
-                            className="fa-solid fa-phone"/> 0779-16-19-75</span></a>
+                        <a href="https://wa.me/0779-16-19-75"><span style={{fontSize: media(15, 20)}}><i className="fab fa-whatsapp"/> 0779-16-19-75</span></a>
+                        <a href="https://t.me/0779-16-19-75"><span style={{fontSize: media(15, 20)}}><i className="fab fa-telegram"/> 0779-16-19-75</span></a>
                         <a href="#"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-location-dot"/> Ош облусу, Чоң-Алай району, Ачы -Суу
 айылы, А.Хожомуратов көчөсү 5 </span></a>
                     </div>
