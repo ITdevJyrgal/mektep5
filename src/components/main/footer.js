@@ -13,11 +13,11 @@ const Footer = () => {
                         <img src={logo} alt=""/>
                         <div className="footer-general__contact" style={{paddingTop: media(10, 40)}}>
                             <span><i className="fa-solid fa-phone"/></span>
-                            <a href="tel:0 (999) 99 99 99">0 (999) 99 99 99</a>
+                            <a href="tel: 0779-16-19-75"> 0779-16-19-75</a>
                         </div>
                     </div>
                     <div className="footer-general__center">
-                        <a href="#">balanchaevbalancha@gmail.com</a>
+                        <a href="mailto:chonalaybokonbaev@gmail">chonalaybokonbaev@gmail</a>
                         {/*<div>*/}
                         {/*    <h1>Developed at</h1>*/}
                         {/*    <img src={motion} alt=""/>*/}
@@ -26,8 +26,8 @@ const Footer = () => {
                     </div>
                     <div className="footer-general__seti">
                         <h1>Соц тармактар</h1>
-                        <span><i className="fab fa-instagram"/></span>
-                        <span><i className="fab fa-whatsapp"/></span>
+                         <span> <a href="https://www.instagram.com/bokonbaevmektebi/"><i className="fab fa-instagram"/></a></span>
+                        {/*<span><i className="fab fa-whatsapp"/></span>*/}
                     </div>
                 </div>
 
